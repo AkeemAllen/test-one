@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ff.github.io/test-one/</loc>
+         <lastmod>2024-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ff.github.io/test-one/pokemon/004-charmander/</loc>
+         <lastmod>2024-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
