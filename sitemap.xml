@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ff.github.io/test-one/pokemon/003-venusaur/</loc>
+         <lastmod>2024-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ff.github.io/test-one/pokemon/004-charmander/</loc>
          <lastmod>2024-09-06</lastmod>
          <changefreq>daily</changefreq>
